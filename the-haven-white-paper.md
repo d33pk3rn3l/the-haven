@@ -14,9 +14,16 @@ To achieve true, long-term resilience for human civilization, we must look beyon
 
 **The Swiss Neutrality Ground Station:** While the data resides in space, it requires a trusted terrestrial access point. Switzerland would host the primary operations station: a highly secure facility protected by Swiss law. This "Swiss Neutrality Ground Station" is not a primary archive but the operations center and neutral gateway to the space network. It is the backup hub through which nations can securely upload their data and, in a crisis, retrieve it, all under the protection of Swiss legal frameworks.
 
+## Securing Humanity's Future
+The Haven framework represents the next logical step in the evolution of sovereignty and preservation. By leveraging the vastness and relative stability of space, we can create a resilient infrastructure that transcends terrestrial conflict and disaster. It is a vision where Swiss neutrality provides the diplomatic foundation for a global collaboration, ensuring that the digital soul of every nation—and the collective legacy of humanity—can endure for generations to come.
+
+
+
 ## The Architecture
 
-**The Haven** operates as a distributed, multi-layered space infrastructure with four integrated segments working in concert to ensure sovereign continuity and data preservation.
+**The Haven** operates as a distributed, multi-layered space infrastructure with four integrated segments to ensure sovereign continuity and data preservation.
+
+![Architecture Overview](./images/architecture-overview.png)
 
 ### The Space Segment
 
@@ -78,6 +85,3 @@ To achieve true, long-term resilience for human civilization, we must look beyon
 - **Emergency Launch:** Rapid response capability for crisis situations
 
 **Launch Redundancy:** Partnership with multiple commercial and national providers to ensure continuous access to space regardless of geopolitical constraints.
-
-## Securing Humanity's Future
-The Haven framework represents the next logical step in the evolution of sovereignty and preservation. By leveraging the vastness and relative stability of space, we can create a resilient infrastructure that transcends terrestrial conflict and disaster. It is a vision where Swiss neutrality provides the diplomatic foundation for a global collaboration, ensuring that the digital soul of every nation—and the collective legacy of humanity—can endure for generations to come.
