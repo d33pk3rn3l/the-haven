@@ -2,7 +2,6 @@
 
 Our civilization is digital. Our laws, our culture, our science: it's all data. But it's all stored on a single, fragile planet. Terrestrial [data embassies](https://en.wikipedia.org/wiki/Data_embassy) are a start, but they won't survive a global catastrophe.
 
-> [!IMPORTANT]
 > **The ultimate off-site backup cannot be on-site.**
 
 ## The Solution: A Planetary Data Network
